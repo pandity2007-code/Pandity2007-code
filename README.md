@@ -8,9 +8,11 @@ Hi, I’m Yash Saraswat🎓 | B.Tech CSE 💻 Still learning, still building —
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pandity2007-code&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Pandity2007-code&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pandity2007-code&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pandity2007-code&theme=dark)](https://git.io/streak-stats)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pandity2007-code&theme=rose&no-frame=false&no-bg=false&margin-w=4)
