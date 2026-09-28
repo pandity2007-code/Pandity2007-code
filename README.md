@@ -14,7 +14,7 @@ Hi, I’m Yash Saraswat🎓 | B.Tech CSE 💻 Still learning, still building —
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies.
 ![](https://github-profile-trophy.vercel.app/?username=Pandity2007-code&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
