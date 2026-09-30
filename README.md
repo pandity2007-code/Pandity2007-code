@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Yash Saraswat🎓 | B.Tech CSE 💻 Still learning, still building — but every day getting better at turning logic into real solutions..
+Hi, I’m Yash Saraswat🎓 | B.Tech CSE 💻 Still learning, still building — but every day getting better at turning logic into real solutions...
 
 
 ## 🌐 Socials:
